@@ -1,0 +1,11 @@
+{
+  "name": "spendbook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Expense policies written in Claude (via MCP), kept live in Spendbook. No AI inside.",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
